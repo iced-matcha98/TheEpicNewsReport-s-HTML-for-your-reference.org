@@ -1,6 +1,6 @@
 # TheEpicNewsReport-s-HTML-for-your-reference.org
-Thank you for Visiting The Epic News Report's HTML Code for the New Article Covering the New High School. 
-```<html>
+<pre>Thank you for Visiting The Epic News Report's HTML Code for the New Article Covering the New High School. 
+<html>
         <head><title>Downloaded HTML</title></head>
         <body>
             <pre style="white-space: pre-wrap; word-wrap: break-word;"><h1>The New Highschool</h1>
@@ -15,9 +15,9 @@ Thank you for Visiting The Epic News Report's HTML Code for the New Article Cove
 <h2>Who are the students?</h2>
 <p>
     I don't personally know any of the new students, but the first class will only be nine students. Some students are likely from St. Patrick Catholic School, which is a k-8 program and the temporary location of the new highschool. With such a small class, students will get personalized attention from teachers.
-</p>```
+</p>
 </pre>
         </body>
-    </html>
+    </html> <pre> 
 
 <a> href="https://github.com/iced-matcha98/TheEpicNewsReport.org" target="_self">Thanks for checking out our coding! Head back to The Epic News Report's Home Page </a>
