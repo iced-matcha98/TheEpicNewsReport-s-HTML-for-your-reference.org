@@ -20,4 +20,4 @@ Thank you for Visiting The Epic News Report's HTML Code for the New Article Cove
         </body>
     </html>
 
-<a href="https://github.com/iced-matcha98/TheEpicNewsReport.org" target="_self">Thanks for checking out our coding! Head back to The Epic News Report's Home Page </a>
+<a> href="https://github.com/iced-matcha98/TheEpicNewsReport.org" target="_self">Thanks for checking out our coding! Head back to The Epic News Report's Home Page </a>
