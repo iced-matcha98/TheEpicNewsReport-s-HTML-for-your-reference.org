@@ -1,6 +1,6 @@
 # TheEpicNewsReport-s-HTML-for-your-reference.org
-<pre>Thank you for Visiting The Epic News Report's HTML Code for the New Article Covering the New High School. 
-<html>
+Thank you for Visiting The Epic News Report's HTML Code for the New Article Covering the New High School. 
+'''<html>
         <head><title>Downloaded HTML</title></head>
         <body>
             <pre style="white-space: pre-wrap; word-wrap: break-word;"><h1>The New Highschool</h1>
@@ -18,6 +18,6 @@
 </p>
 </pre>
         </body>
-    </html> <pre> 
+    </html> <pre>'''
 
 <a> href="https://github.com/iced-matcha98/TheEpicNewsReport.org" target="_self">Thanks for checking out our coding! Head back to The Epic News Report's Home Page </a>
